@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://IbrahimAHamada27.github.io/hedera-hashgraph-interactive-session/",
+  "homepage": "https://ibrahimahamada27.github.io/hedera-hashgraph-interactive-session/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
